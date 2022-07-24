@@ -1,19 +1,14 @@
-# SHORTEST PATH by Algomen
+# Решение тестового задания
 
-## REAL-LIFE GRAPHS
-*GRAPH THEORY IS NOTHING BUT CONNECTED VERTICES (NODES)*
+## Имеются 3 Java файла:
+* HalykDemoApplication.java
+* Date.java
+* DateController.java
 </br>
-<img src="https://github.com/realisher/Halyk-test/blob/main/imgs/screen2.PNG" width="500">
+<img src="https://github.com/realisher/Halyk-test/blob/main/imgs/screen2.PNG" width="500" height="500">
 </br>
-**EVERYTHING IN OUR WORLD IS LINKED:**
-* All cities are linked by roads
-* Pages are linked by hyperlinks on the internet
-* Flight and rail network
-* Mobile network
-* Components of Electric circuit
-* Components of computer chips and etc…
 
-*By graphs, we can simulate all these networks to make some visual analysis like finding connections and shortest paths between nodes.*
+
 
 ## Algorithm
 
