@@ -33,12 +33,8 @@
 <img src="https://github.com/realisher/Halyk-test/blob/main/imgs/screen5.PNG" >
 </br>
 
-### Nondeterministic machine
-If one represents a nondeterministic abstract machine as a graph where vertices describe states and edges describe possible transitions, shortest path algorithms can be used to find an optimal sequence of choices to reach a certain goal state, or to establish lower bounds on the time needed to reach a given state.
-</br>
-<img src="https://github.com/Daxak07/Algomen/blob/main/visuals/nondeterministic.png" width="500">
-</br>
+## Результат:
 
-*Real-life example:*
 </br>
-<img src="https://github.com/Daxak07/Algomen/blob/main/visuals/2fasted.gif" width="500">
+<img src="https://github.com/realisher/Halyk-test/blob/main/imgs/screen1.PNG" >
+</br>
