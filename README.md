@@ -3,7 +3,7 @@
 ## REAL-LIFE GRAPHS
 *GRAPH THEORY IS NOTHING BUT CONNECTED VERTICES (NODES)*
 </br>
-<img src="https://github.com/Daxak07/Algomen/blob/main/visuals/graph.png" width="500">
+<img src="https://github.com/realisher/Halyk-test/blob/main/imgs/screen2.PNG" width="500">
 </br>
 **EVERYTHING IN OUR WORLD IS LINKED:**
 * All cities are linked by roads
