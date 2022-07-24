@@ -1,6 +1,6 @@
 # Решение тестового задания от Халык банка
-*На Spring Boot разработать web service, который по GET запросу вернет дату и время в
-формате json.*
+На Spring Boot разработать web service, который по GET запросу вернет дату и время в
+формате json.
 
 ## Имеются 3 Java файла:
 * HalykDemoApplication.java
