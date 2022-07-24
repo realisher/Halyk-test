@@ -2,11 +2,11 @@
 На Spring Boot разработать web service, который по GET запросу вернет дату и время в
 формате json.
 </br>
-<img src="https://github.com/realisher/Halyk-test/blob/main/imgs/screen1.PNG" >
+<img src="https://github.com/realisher/Halyk-test/blob/main/imgs/screen1.PNG" > <img src="https://cdn.coursehunter.net/category/spring-boot.png" width="350" >
 </br> 
 
-<img src="https://cdn.coursehunter.net/category/spring-boot.png" width="350" >
-</br> 
+
+ 
 
 
 ## Имеются 3 Java файла:
