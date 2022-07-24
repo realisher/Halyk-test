@@ -5,7 +5,7 @@
 * Date.java
 * DateController.java
 </br>
-<img src="https://github.com/realisher/Halyk-test/blob/main/imgs/screen2.PNG" width="800" height="500">
+<img src="https://github.com/realisher/Halyk-test/blob/main/imgs/screen2.PNG" >
 </br>
 
 
